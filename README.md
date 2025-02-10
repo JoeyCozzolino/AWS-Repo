@@ -1,5 +1,3 @@
 # AWS-Repo
 
-This is CRAZY
-
-Hey buiddy
+Lets all just relax here
